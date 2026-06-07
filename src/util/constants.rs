@@ -1,0 +1,19 @@
+pub(crate) const EK_SEED_SIZE: usize = 32;
+pub(crate) const CHUNK_SIZE: usize = 32;
+pub(crate) const DECAPSULATION_KEY_SIZE: usize = 2400;
+pub(crate) const HEK_SIZE: usize = 32;
+pub(crate) const ENCAPS_SECRET_SIZE: usize = 2080;
+pub(crate) const SHARED_SECRET_SIZE: usize = 32;
+
+pub(crate) const HEADER_SIZE: usize = 64;
+pub(crate) const MAC_SIZE: usize = 32;
+pub(crate) const EK_VECTOR_SIZE: usize = 1152;
+pub(crate) const CT1_SIZE: usize = 960;
+pub(crate) const CT2_SIZE: usize = 128;
+pub(crate) const PROTOCOL_INFO: &str = "HACSS_MLKEM768_SHA-256"; 
+pub(crate) const TR_PROTOCOL_INFO: &[u8] = b"HACSS_X25519_ML-KEM_768_SHA3-256_ML-DSA_65_CHACHA20_POLY_1305";
+pub(crate) const ROOT_CHAIN_KEY_SIZE: usize = 32;
+pub(crate) const CHAIN_KEY_SIZE: usize = 32;
+pub(crate) const MESSAGE_KEY_SIZE: usize = 32;
+pub(crate) const TAG_SIZE: usize = 16;
+pub(crate) const NONCE_SIZE: usize = 12;
