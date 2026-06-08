@@ -1,0 +1,18 @@
+{
+  "fstar_exe": "fstar.exe",
+  "include_dirs": [
+    "/Users/andersmikkelsen/.hax/hacl_home/lib",
+    "",
+    "/Users/andersmikkelsen/.cargo/git/checkouts/hax-62040e6a6d802cb8/4a7adf2/hax-lib/proof-libs/fstar/core",
+    "/Users/andersmikkelsen/.cargo/git/checkouts/hax-62040e6a6d802cb8/4a7adf2/hax-lib/proof-libs/fstar/rust_primitives",
+    "/Users/andersmikkelsen/.cargo/git/checkouts/hax-62040e6a6d802cb8/4a7adf2/hax-lib/proofs/fstar/extraction",
+    "/Users/andersmikkelsen/.cargo/git/checkouts/hax-62040e6a6d802cb8/ad110bf/hax-lib/proof-libs/fstar/core",
+    "/Users/andersmikkelsen/.cargo/git/checkouts/hax-62040e6a6d802cb8/ad110bf/hax-lib/proof-libs/fstar/rust_primitives",
+    "/Users/andersmikkelsen/.cargo/git/checkouts/hax-62040e6a6d802cb8/ad110bf/hax-lib/proofs/fstar/extraction",
+    "/Users/andersmikkelsen/.cargo/git/checkouts/sparsepostquantumratchet-b58d7f56e3645ccd/f2589fe/proofs/fstar/extraction",
+    "/Users/andersmikkelsen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/core-models-0.0.5/proofs/fstar/extraction",
+    "/Users/andersmikkelsen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/core-models-0.0.6/proofs/fstar/extraction",
+    "/Users/andersmikkelsen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libcrux-aesgcm-0.0.7/proofs/fstar/extraction",
+    "/Users/andersmikkelsen/Desktop/6.semester/Bachelor.nosync/hacss-bachelor/proofs/fstar/extraction"
+  ]
+}
